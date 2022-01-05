@@ -1,0 +1,21 @@
+{
+  "name": "matrix-rain",
+  "version": "1.0.0",
+  "description": "Tela matrix",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caroAlvim/matrix-rain.git"
+  },
+  "keywords": ["Rain", "matrix", "javascript"],
+  "author": "@caroAlvim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caroAlvim/matrix-rain/issues"
+  },
+  "homepage": "https://github.com/caroAlvim/matrix-rain#readme"
+}
