@@ -12,11 +12,18 @@
     "type": "git",
     "url": "git+https://github.com/caroAlvim/matrix-rain.git"
   },
-  "keywords": ["Rain", "matrix", "javascript"],
+  "keywords": [
+    "Rain",
+    "matrix",
+    "javascript"
+  ],
   "author": "@caroAlvim",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/caroAlvim/matrix-rain/issues"
   },
-  "homepage": "https://github.com/caroAlvim/matrix-rain#readme"
+  "homepage": "https://github.com/caroAlvim/matrix-rain#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
