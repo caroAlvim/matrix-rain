@@ -1,4 +1,4 @@
-# Matrix rain
+# Matrix Rain
 
 Exercício para estudo de Javascript.
 
